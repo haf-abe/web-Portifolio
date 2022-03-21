@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(199, 240, 185);
+    margin: 3px;
+    width:fit-content;
+    height: 80%;
+    overflow-y: hidden;
+
+}
+li{
+    display: inline;
+    padding-left: 10px;
+    color: rgb(236, 17, 17);
+}
+li a:hover {
+    background-color: red;
+  }
+ul{
+   
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(135, 199, 135);
+    color: rgb(226, 46, 46);
+    
+}
+
+  .line{
+      background-color: rgb(122, 128, 121);
+      padding: 2px;
+      margin: 3px;
+  }
+
+  .row{
+    
+      margin-left: 3px;
+      margin: 3px;
+      margin-bottom: auto;
+    background-color: rgb(112, 129, 109);
+      color:rgb(22, 21, 21);
+  }
+
+
+  #col3{
+      padding-bottom: 10px;
+      border-color: rgb(112, 224, 110);
+  }
+  img{
+      width: 100%;
+      margin: 2px;
+      height: 70%; 
+     
+   } 
+  .col-5{
+      background-color: rgb(124 65% 2%);
+  }
+  #myPc{
+      border-radius: 20px;
+      border-color: brown;
+      padding-left: 2px;
+      height: fit-content;
+  }
+ 
+.contactUs{
+    width: 90%;
+    height: auto;
+    border: 2px;
+    text-align: center;
+    
+}
+.list{
+    background-color: rgb(181, 241, 198);
+    color: rgb(78, 192, 127);
+    
+}
+#website, #quiz, #adventure {
+    width: 60%;
+    height: 50%;
+    margin: auto;
+    padding-top: 20px;
+    border: 20px;
+}
+.h1{
+    text-align: center;
+}
+.nav{
+    align-content: space-between;
+}
+.col-7{
+    max-height: max-content;
+    display:block;
+    
+}
